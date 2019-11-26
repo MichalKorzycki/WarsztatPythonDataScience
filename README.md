@@ -63,3 +63,6 @@
 - ### Specyfika danych tekstowych
 - ### Postawowe metryki dla danych tekstowych
 - ### Klasyfikacja dokumentów w Scikit.
+
+Aby odtworzyć środowisko wykładu można skorzystać z polecenia:
+`conda create --name <envname> --file requirements.txt`
