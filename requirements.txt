@@ -1,6 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
+#
 _anaconda_depends=2019.03=py37_0
 alabaster=0.7.12=py37_0
 anaconda=custom=py37_1
