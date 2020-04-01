@@ -1,7 +1,6 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-#
 _anaconda_depends=2019.03=py37_0
 alabaster=0.7.12=py37_0
 anaconda=custom=py37_1
@@ -32,7 +31,7 @@ boto=2.49.0=py37_0
 bottleneck=1.2.1=py37h452e1ab_1
 bzip2=1.0.8=he774522_0
 ca-certificates=2020.1.1=0
-certifi=2019.11.28=py37_0
+certifi=2019.11.28=py37_1
 cffi=1.13.1=py37h7a1dbc1_0
 chardet=3.0.4=py37_1003
 click=7.0=py37_0
@@ -153,7 +152,7 @@ numpy-base=1.17.3=py37hc3f5095_0
 numpydoc=0.9.1=py_0
 olefile=0.46=py37_0
 openpyxl=3.0.0=py_0
-openssl=1.1.1d=he774522_4
+openssl=1.1.1e=he774522_0
 packaging=19.2=py_0
 pandas=0.25.2=py37ha925a31_0
 pandoc=2.2.3.2=0
@@ -221,7 +220,7 @@ qtawesome=0.6.0=py_0
 qtconsole=4.5.5=py_0
 qtpy=1.9.0=py_0
 queuelib=1.5.0=py37_0
-requests=2.22.0=py37_0
+requests=2.23.0=py37_0
 rope=0.14.0=py_0
 ruamel_yaml=0.15.46=py37hfa6e2cd_0
 scikit-image=0.15.0=py37ha925a31_0
