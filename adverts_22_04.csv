@@ -1,0 +1,993 @@
+Cena;Data dodania;Lokalizacja;Na sprzedaż przez;Rodzaj nieruchomości;Liczba pokoi;Liczba łazienek;Wielkość (m2);Parking
+519000;03/04/2020;Praga Północ, Warszawa;Właściciel;Mieszkanie;4 pokoje;1 łazienka;50;
+619000;03/04/2020;Wilanów, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;53;Ulica
+950000;27/01/2020;Wilanów, Warszawa;Właściciel;Mieszkanie;3 pokoje;2 łazienki;90;Garaż
+1160000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;4 pokoje;1 łazienka;84;Ulica
+799000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;82;Ulica
+550000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;49;Ulica
+655000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;55;Brak
+576248;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;45;
+519480;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;49;
+505000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;47;
+519000;22/04/2020;Praga Północ, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;62;
+1790000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;3 łazienki;380;
+599000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;5 pokoi;3 łazienki;210;
+523500;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;35;
+580000;22/04/2020;Bielany, Warszawa;Właściciel;Mieszkanie;3 pokoje;1 łazienka;56;
+399999;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;35;
+635000;22/04/2020;Ursynów, Warszawa;Właściciel;Mieszkanie;4 pokoje;1 łazienka;58;
+599000;22/04/2020;Mokotów, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;44;
+485000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;43;
+497000;22/04/2020;Mokotów, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;32;
+505990;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;4 pokoje;;56;
+521500;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;3 pokoje;;69;
+268500;22/04/2020;Rembertów, Warszawa;Agencja;Mieszkanie;2 pokoje;;35;
+389000;20/01/2020;Białołęka, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;50;
+430000;30/03/2020;Śródmieście, Warszawa;Właściciel;Mieszkanie;2 pokoje;;27;
+480000;17/02/2020;Wawer, Warszawa;Właściciel;Mieszkanie;2 pokoje;2 łazienki;58;Garaż
+589000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;51;
+557650;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;4 pokoje;;61;
+448000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;2 pokoje;;41;
+727999;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;60;
+1020000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;68;Ulica
+699000;22/04/2020;Wilanów, Warszawa;Agencja;Mieszkanie;3 pokoje;;112;
+399000;11/03/2020;Wesoła, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;47;Ulica
+699000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;47;
+570000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;53;Garaż
+400000;22/04/2020;Targówek, Warszawa;Właściciel;Mieszkanie;;;1;
+1370000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;5 pokoi;2 łazienki;176;Garaż
+695000;11/03/2020;Praga Północ, Warszawa;Agencja;Mieszkanie;3 pokoje;2 łazienki;86;Ulica
+23766410;22/04/2020;Mokotów, Warszawa;Agencja;Dom;;;700;
+1350000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;62;
+560000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;47;
+595000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;2 pokoje;;42;
+799000;22/04/2020;Śródmieście, Warszawa;Właściciel;Mieszkanie;2 pokoje;;55;
+544999;16/04/2020;Białołęka, Warszawa;Właściciel;Mieszkanie;4 pokoje;1 łazienka;66;Garaż
+3195000;19/04/2020;Białołęka, Warszawa;Właściciel;Dom;5 pokoi;3 łazienki;314;Garaż
+4830000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;350;Garaż
+610000;22/04/2020;Wawer, Warszawa;Właściciel;Mieszkanie;4 pokoje;2 łazienki;125;Garaż
+462000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;44;
+1119000;23/01/2020;Wilanów, Warszawa;Agencja;Dom;5 pokoi;2 łazienki;140;Garaż
+1041000;22/04/2020;Wilanów, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;87;Garaż
+539000;22/04/2020;Wola, Warszawa;Właściciel;Mieszkanie;3 pokoje;1 łazienka;58;Garaż
+939000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;2 łazienki;131;Garaż
+1650000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;;;190;
+539000;22/04/2020;Wola, Warszawa;Właściciel;Mieszkanie;3 pokoje;1 łazienka;58;Garaż
+824000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;73;Ulica
+365000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;33;
+320000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;29;
+939000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;76;
+660000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;42;
+1395000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;3 pokoje;;102;Garaż
+425000;03/03/2020;Wola, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;37;
+720000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;4 pokoje;;86;
+685000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;4 pokoje;;87;
+385000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;37;
+547400;05/04/2020;Białołęka, Warszawa;Właściciel;Mieszkanie;3 pokoje;1 łazienka;67;Garaż
+549000;03/04/2020;Praga Południe, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;58;
+1400000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;148;
+925000;22/04/2020;Praga Północ, Warszawa;Agencja;Mieszkanie;4 pokoje;;93;
+2503632;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;5 pokoi;;146;
+3199000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;6 lub więcej pokoi;;324;
+791712;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;4 pokoje;;83;
+1149000;22/04/2020;Wawer, Warszawa;Agencja;Mieszkanie;3 pokoje;;104;
+690000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;2 pokoje;;55;
+505000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;4 pokoje;;67;
+1990000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;6 lub więcej pokoi;2 łazienki;294;
+378900;11/02/2020;Praga Południe, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;32;Ulica
+530000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;49;
+399000;22/04/2020;Praga Południe, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;38;Ulica
+1400000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;4 pokoje;;210;
+599000;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;3 pokoje;;75;
+440000;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;2 pokoje;;58;
+470000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;2 pokoje;;54;
+645000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;33;
+3900000;22/04/2020;Włochy, Warszawa;Właściciel;Dom;6 lub więcej pokoi;3 łazienki;600;Garaż
+1330000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;4 pokoje;;76;
+935000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;110;Garaż
+565000;17/04/2020;Bielany, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;40;Ulica
+495000;17/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;39;Ulica
+625000;08/04/2020;Praga Południe, Warszawa;Właściciel;Mieszkanie;4 pokoje;1 łazienka;60;
+1080000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;4 pokoje;;91;
+646000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;5 pokoi;;85;
+330000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;37;
+700000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;5 pokoi;;86;
+1249000;22/04/2020;Rembertów, Warszawa;Agencja;Dom;6 lub więcej pokoi;2 łazienki;278;
+780000;22/04/2020;Praga Północ, Warszawa;Agencja;Mieszkanie;3 pokoje;;70;
+999000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;3 pokoje;;90;
+1077600;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;72;
+1924650;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;4 pokoje;;129;
+1490000;22/04/2020;Wilanów, Warszawa;Agencja;Mieszkanie;4 pokoje;;119;
+762000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;4 pokoje;1 łazienka;84;
+614500;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;2 pokoje;;54;
+585000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;62;
+575000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;65;
+898000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;3 pokoje;;74;
+675000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;45;
+457000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;2 pokoje;;42;
+550000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;2 pokoje;;51;
+569999;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;52;
+398775;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;2 pokoje;;41;
+130000;17/04/2020;Targówek, Warszawa;Właściciel;Mieszkanie;Kawalerka lub garsoniera;1 łazienka;16;Ulica
+457000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;49;
+1500000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;69;
+450000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;39;
+920000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;74;
+862000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;2 pokoje;;63;
+620000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;43;
+550000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;56;
+420000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;2 pokoje;;34;
+899000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;62;
+464000;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;3 pokoje;;59;
+734314;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;75;
+399000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;32;
+440000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;34;
+539000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;48;Ulica
+510000;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;2 pokoje;;57;
+990000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;88;Garaż
+539000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;39;
+520000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;42;
+570000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;3 pokoje;;63;
+345000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;37;
+729000;28/03/2020;Mokotów, Warszawa;Właściciel;Mieszkanie;3 pokoje;1 łazienka;73;Garaż
+687000;06/03/2020;Ursynów, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;60;Garaż
+600000;15/04/2020;Wola, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;58;Garaż
+570000;22/04/2020;Wilanów, Warszawa;Agencja;Mieszkanie;2 pokoje;;47;
+484000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;46;
+624000;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;2 pokoje;;60;
+895000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;3 pokoje;;76;
+620000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;2 pokoje;;57;
+850000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;39;Ulica
+560000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;57;
+840000;22/04/2020;Wilanów, Warszawa;Agencja;Mieszkanie;3 pokoje;;77;
+670000;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;4 pokoje;;88;
+1790000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;6 lub więcej pokoi;;240;
+550000;22/04/2020;Wilanów, Warszawa;Agencja;Mieszkanie;2 pokoje;;41;
+799000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;4 pokoje;;87;
+565000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;47;
+575000;24/10/2019;Praga Południe, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;44;Brak
+385000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;36;
+1160000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;3 pokoje;;83;
+1499000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;4 pokoje;;95;
+369000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;2 pokoje;;32;
+355000;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;2 pokoje;;44;
+420000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;2 pokoje;;35;
+689000;30/03/2020;Ursus, Warszawa;Właściciel;Mieszkanie;4 pokoje;2 łazienki;85;Garaż
+519000;30/03/2020;Targówek, Warszawa;Właściciel;Mieszkanie;3 pokoje;;55;
+550000;24/03/2020;Bielany, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;35;Brak
+459000;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;3 pokoje;;55;
+1410000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;4 pokoje;;142;
+399000;22/04/2020;Praga Północ, Warszawa;Agencja;Mieszkanie;2 pokoje;;38;
+1050000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;4 pokoje;;122;
+385000;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;3 pokoje;;48;
+899000;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;3 pokoje;;110;
+990000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;6 lub więcej pokoi;;236;
+2200000;22/04/2020;Wilanów, Warszawa;Agencja;Mieszkanie;5 pokoi;;129;
+359224;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;22;
+445000;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;3 pokoje;;64;
+465000;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;2 pokoje;;45;
+620000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;65;
+475000;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;3 pokoje;;51;
+560000;22/04/2020;Wawer, Warszawa;Agencja;Dom;4 pokoje;2 łazienki;100;Garaż
+1510000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;3 pokoje;;110;
+638000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;64;
+1650000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;5 pokoi;4 lub więcej łazienek;190;
+2900000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;63;
+980000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;4 pokoje;;180;
+1900000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;Kawalerka lub garsoniera;;366;
+589000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;2 pokoje;;42;
+649000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;74;
+460000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;58;
+1499000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;88;
+910800;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;4 pokoje;;92;
+610000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;67;
+489000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;37;
+399000;22/04/2020;Praga Północ, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;30;
+930000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;80;
+930000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;4 pokoje;;120;
+560000;22/04/2020;Mokotów, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;52;
+770000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;68;Ulica
+370000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;25;
+865000;22/04/2020;Włochy, Warszawa;Agencja;Mieszkanie;4 pokoje;;92;
+555000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;49;
+1659000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;103;
+941825;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;78;
+1200000;26/03/2020;Żoliborz, Warszawa;Właściciel;Mieszkanie;3 pokoje;2 łazienki;89;Garaż
+449999;02/04/2020;Wola, Warszawa;Właściciel;;2 pokoje;1 łazienka;31;
+962750;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;78;
+520000;22/04/2020;Wawer, Warszawa;Agencja;Mieszkanie;3 pokoje;;72;
+639000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;2 pokoje;2 łazienki;58;Ulica
+629000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;81;
+1049760;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;78;
+693164;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;54;
+817301;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;59;
+638764;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;51;
+850000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;4 pokoje;2 łazienki;121;
+1949000;22/04/2020;Wola, Warszawa;Agencja;Dom;5 pokoi;2 łazienki;190;
+238234;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;26;
+340010;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;3 pokoje;;57;
+601000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;73;
+569000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;70;
+521700;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;3 pokoje;;72;
+339524;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;2 pokoje;;50;
+780000;22/04/2020;Włochy, Warszawa;Agencja;Mieszkanie;5 pokoi;;97;
+480000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;21;
+410000;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;2 pokoje;;66;
+699000;07/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;73;Garaż
+1990000;09/12/2019;Białołęka, Warszawa;Właściciel;Dom;6 lub więcej pokoi;4 lub więcej łazienek;447;Garaż
+569000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;48;
+640000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;4 pokoje;;78;
+2800000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;410;
+690000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;54;
+839000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;5 pokoi;;108;
+580000;22/04/2020;Wola, Warszawa;Agencja;;Kawalerka lub garsoniera;;50;
+1195000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;83;
+780000;22/04/2020;Wola, Warszawa;Agencja;;2 pokoje;;60;
+988000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;56;
+899000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;51;
+6800000;22/04/2020;Bemowo, Warszawa;Agencja;Dom;6 lub więcej pokoi;;420;
+796000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;3 pokoje;;78;
+1580000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;81;
+590000;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;3 pokoje;;78;
+530000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;54;Ulica
+449000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;42;
+569000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;3 pokoje;;57;
+2300000;12/02/2020;Praga Południe, Warszawa;Właściciel;Inne;;;500;
+925000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;5 pokoi;;118;
+1700000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;4 pokoje;2 łazienki;159;
+700000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;50;
+680000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;43;
+920000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;78;
+922000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;2 pokoje;;55;
+1100000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;3 pokoje;;85;
+468000;22/04/2020;Mokotów, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;48;
+1055000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;3 pokoje;;105;Garaż
+1309000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;4 pokoje;;155;
+1230000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;67;
+1305000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;62;
+999000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;52;
+805800;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;65;
+793000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;53;
+735000;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;4 pokoje;;85;
+917000;22/04/2020;Wilanów, Warszawa;Agencja;Mieszkanie;3 pokoje;;94;
+680000;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;3 pokoje;;77;
+670000;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;4 pokoje;;104;
+588000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;47;
+677320;09/04/2020;Wola, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;57;Garaż
+1113600;13/04/2020;Praga Północ, Warszawa;Właściciel;Mieszkanie;4 pokoje;2 łazienki;96;Kryty
+540000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;50;
+1673000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;4 pokoje;;118;
+699000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;2 pokoje;;55;
+590000;22/04/2020;Wola, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;46;Garaż
+919000;22/04/2020;Wilanów, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;103;Garaż
+828400;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;76;
+580000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;49;
+669999;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;60;
+590000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;2 pokoje;;59;Ulica
+910000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;62;
+630000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;62;Ulica
+375000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;25;
+439000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;2 pokoje;;46;Ulica
+520000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;3 pokoje;;61;
+620000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;49;Ulica
+1400000;22/04/2020;Praga Północ, Warszawa;Agencja;Mieszkanie;4 pokoje;;141;
+935000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;4 pokoje;;94;Ulica
+925000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;5 pokoi;;118;
+588000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;47;Ulica
+990000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;4 pokoje;;89;Garaż
+345000;15/04/2020;Praga Południe, Warszawa;Właściciel;Mieszkanie;Kawalerka lub garsoniera;1 łazienka;27;Ulica
+440000;01/03/2020;Bielany, Warszawa;Właściciel;Mieszkanie;3 pokoje;1 łazienka;56;Brak
+295000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;19;Brak
+635000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;65;Ulica
+629000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;62;
+530000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;45;Ulica
+1840000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;6 lub więcej pokoi;;200;
+620000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;4 pokoje;;64;Garaż
+560000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;2 pokoje;;55;
+550000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;2 pokoje;;57;Garaż
+539000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;46;Ulica
+460000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;41;
+585000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;49;
+1150000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;4 pokoje;;143;
+959000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;84;
+559000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;43;
+512000;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;3 pokoje;;63;
+1550000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;4 pokoje;;119;
+526000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;3 pokoje;;53;
+495000;22/04/2020;Włochy, Warszawa;Agencja;Mieszkanie;2 pokoje;;40;
+1070000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;93;
+1330000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;4 pokoje;;138;
+1836000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;6 lub więcej pokoi;2 łazienki;204;
+529380;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;59;
+709000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;85;
+630000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;70;
+655000;22/04/2020;Wilanów, Warszawa;Agencja;Mieszkanie;2 pokoje;;64;Brak
+596000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;4 pokoje;;65;
+975000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;82;
+720000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;61;
+624000;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;2 pokoje;;60;
+574000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;55;
+499000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;4 pokoje;;60;
+650000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;2 pokoje;;50;
+2823000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;4 pokoje;;115;
+554000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;57;
+665000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;55;
+1230000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;77;
+474500;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;2 pokoje;;55;
+732000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;41;
+505000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;48;
+1140000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;4 pokoje;;84;
+520000;14/02/2020;Wola, Warszawa;Właściciel;Mieszkanie;Kawalerka lub garsoniera;1 łazienka;35;Ulica
+1014000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;70;
+2750000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;5 pokoi;1 łazienka;170;
+770000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;83;
+780000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;54;
+380000;22/04/2020;Praga Północ, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;32;
+1724500;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;5 pokoi;;160;Garaż
+597000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;47;Ulica
+592800;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;59;
+465000;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;2 pokoje;;51;
+580500;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;3 pokoje;;68;
+634500;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;47;
+519000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;48;
+569000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;43;
+359000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;37;
+589000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;3 pokoje;;63;
+579000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;50;
+530000;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;3 pokoje;;55;Ulica
+990000;22/04/2020;Włochy, Warszawa;Agencja;Mieszkanie;3 pokoje;;110;
+536000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;49;
+850000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;50;
+299000;04/04/2020;Wola, Warszawa;Właściciel;Mieszkanie;Kawalerka lub garsoniera;1 łazienka;17;Ulica
+569000;20/04/2020;Śródmieście, Warszawa;Właściciel;Mieszkanie;2 pokoje;;39;
+1019000;02/03/2020;Białołęka, Warszawa;Właściciel;Dom;6 lub więcej pokoi;3 łazienki;184;Garaż
+1010000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;2 pokoje;;51;
+780000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;50;
+495000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;39;
+1900000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;132;
+867000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;73;
+969000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;4 pokoje;;75;
+685000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;57;
+1950000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;103;
+2264000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;5 pokoi;;142;
+725000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;4 pokoje;;82;
+670000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;60;
+370000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;28;
+549000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;44;
+680000;22/04/2020;Wilanów, Warszawa;Agencja;Mieszkanie;2 pokoje;;53;
+720000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;66;
+563750;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;73;
+309000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;20;
+655000;22/04/2020;Wawer, Warszawa;Agencja;Mieszkanie;4 pokoje;2 łazienki;79;
+561000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;42;
+420000;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;2 pokoje;;49;
+628534;11/04/2020;Praga Południe, Warszawa;Właściciel;Mieszkanie;3 pokoje;2 łazienki;58;Ulica
+1085500;22/04/2020;Wawer, Warszawa;Agencja;Mieszkanie;4 pokoje;2 łazienki;123;
+800000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;70;
+1249000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;4 pokoje;2 łazienki;104;
+950000;22/04/2020;Włochy, Warszawa;Agencja;Mieszkanie;3 pokoje;;101;Garaż
+460000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;41;Ulica
+600000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;45;
+425000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;2 pokoje;;36;Ulica
+480000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;54;
+699000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;3 pokoje;;63;Ulica
+458000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;33;
+960000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;4 pokoje;;82;Garaż
+1199000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;4 pokoje;;103;
+529000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;46;Ulica
+816000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;55;
+845000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;80;Garaż
+969000;22/04/2020;Wilanów, Warszawa;Agencja;Mieszkanie;4 pokoje;;102;
+619000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;58;Garaż
+370000;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;2 pokoje;;45;
+680000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;54;Ulica
+539000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;63;Ulica
+480000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;2 pokoje;;49;
+730000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;4 pokoje;;77;Ulica
+439000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;3 pokoje;;54;
+615000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;69;Ulica
+635000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;79;
+1160000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;3 pokoje;;83;Garaż
+1250000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;84;
+519000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;3 pokoje;;50;Ulica
+530000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;51;Ulica
+1928500;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;117;
+575000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;56;Ulica
+620000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;43;
+515000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;4 pokoje;;58;
+624000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;3 pokoje;;62;Ulica
+655000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;65;
+750000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;2 pokoje;;70;Garaż
+790000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;54;
+729000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;47;Ulica
+549000;17/12/2019;Żoliborz, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;51;Garaż
+599000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;48;Ulica
+653000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;2 pokoje;;54;
+850000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;79;Garaż
+670000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;72;
+650000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;65;Ulica
+852000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;73;
+438000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;2 pokoje;;41;Ulica
+660000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;43;
+490000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;51;Ulica
+561000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;2 pokoje;;51;
+750000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;103;Garaż
+285000;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;32;Ulica
+990000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;72;
+498000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;2 pokoje;;51;Ulica
+612000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;2 pokoje;;57;
+385000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;3 pokoje;;48;
+430000;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;2 pokoje;;54;
+425000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;29;
+496000;22/04/2020;Włochy, Warszawa;Agencja;Mieszkanie;3 pokoje;;48;
+999000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;3 pokoje;;61;
+435000;17/04/2020;Bemowo, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;47;Ulica
+585000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;75;
+555000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;64;
+595000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;2 pokoje;;58;
+435000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;28;Brak
+695000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;74;
+445000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;50;
+710000;22/04/2020;Praga Południe, Warszawa;Agencja;Dom;4 pokoje;1 łazienka;110;Garaż
+620000;22/04/2020;Ursynów, Warszawa;Agencja;;3 pokoje;1 łazienka;79;Garaż
+320000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;25;
+524000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;2 pokoje;;53;
+2100000;22/04/2020;Praga Południe, Warszawa;Właściciel;Dom;6 lub więcej pokoi;4 lub więcej łazienek;370;Kryty
+1587888;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;85;
+1300000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;81;
+535000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;2 pokoje;;61;
+830000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;72;
+540000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;36;
+630000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;35;
+842000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;70;
+1200000;22/04/2020;Włochy, Warszawa;Agencja;Dom;4 pokoje;;173;
+950000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;3 pokoje;;75;
+11000;22/04/2020;Ursus, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;40;Garaż
+825872;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;59;
+680000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;54;
+580000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;57;
+299000;22/04/2020;Wawer, Warszawa;Właściciel;Mieszkanie;Kawalerka lub garsoniera;;27;
+1720000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;90;
+599000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;2 pokoje;;41;
+520000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;2 pokoje;;47;
+930000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;3 pokoje;;77;
+1200000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;5 pokoi;;142;
+700000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;63;
+380000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;28;
+379000;22/04/2020;Wawer, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;37;
+570000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;2 pokoje;;54;
+1500000;19/06/2019;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;94;Garaż
+1450000;17/06/2019;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;122;
+477000;23/03/2020;Ochota, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;39;Ulica
+660000;12/04/2020;Wesoła, Warszawa;Właściciel;Mieszkanie;4 pokoje;2 łazienki;120;Garaż
+545000;22/03/2020;Bielany, Warszawa;Właściciel;Mieszkanie;4 pokoje;1 łazienka;74;
+490000;22/04/2020;Wilanów, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;40;Garaż
+400000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;3 pokoje;2 łazienki;47;Brak
+235000;22/04/2020;Białołęka, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;1 łazienka;36;
+868000;22/04/2020;Żoliborz, Warszawa;Właściciel;Mieszkanie;3 pokoje;1 łazienka;62;Garaż
+198000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;26;Garaż
+198000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;26;Garaż
+580000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;55;
+425000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;38;
+450000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;62;
+775000;22/04/2020;Włochy, Warszawa;Agencja;Mieszkanie;3 pokoje;2 łazienki;83;Garaż
+517330;22/04/2020;Wola, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;41;Brak
+530000;22/04/2020;Wawer, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;72;Ulica
+810000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;67;Garaż
+529000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;38;Garaż
+780000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;76;Garaż
+780000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;76;Garaż
+520000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;36;
+695000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;65;Brak
+339000;22/04/2020;Praga Południe, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;37;
+682376;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;2 łazienki;59;Garaż
+690000;17/02/2018;Wawer, Warszawa;Właściciel;Dom;6 lub więcej pokoi;3 łazienki;140;
+700000;05/04/2020;Mokotów, Warszawa;Właściciel;Mieszkanie;3 pokoje;1 łazienka;64;Garaż
+429000;02/04/2020;Białołęka, Warszawa;Właściciel;Mieszkanie;3 pokoje;1 łazienka;53;Garaż
+685664;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;2 łazienki;61;Garaż
+549000;22/04/2020;Mokotów, Warszawa;Właściciel;Mieszkanie;3 pokoje;1 łazienka;42;
+880000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;3 pokoje;;63;
+4600000;22/04/2020;Praga Południe, Warszawa;Agencja;Dom;6 lub więcej pokoi;;200;
+1799000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;6 lub więcej pokoi;;299;
+3490000;22/04/2020;Żoliborz, Warszawa;Agencja;Dom;6 lub więcej pokoi;;388;
+1290000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;5 pokoi;;241;
+1890000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;5 pokoi;;243;
+895000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;5 pokoi;;137;
+3750000;22/04/2020;Mokotów, Warszawa;Agencja;Dom;5 pokoi;;257;
+1570000;22/04/2020;Praga Południe, Warszawa;Agencja;Dom;4 pokoje;;146;
+840000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;180;
+1120000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;189;
+1750000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;5 pokoi;;275;
+5490000;22/04/2020;Mokotów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;325;
+1290000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;6 lub więcej pokoi;;260;
+2799999;22/04/2020;Wilanów, Warszawa;Agencja;Dom;5 pokoi;;300;
+1578998;22/04/2020;Targówek, Warszawa;Agencja;Dom;5 pokoi;;176;
+1100000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;180;
+730000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;4 pokoje;;158;
+1950000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;420;
+1300000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;300;
+4949000;22/04/2020;Mokotów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;552;
+920000;25/01/2020;Mokotów, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;1 łazienka;53;Garaż
+1400000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;286;
+999900;22/04/2020;Praga Południe, Warszawa;Agencja;Dom;5 pokoi;2 łazienki;170;
+1700000;22/04/2020;Mokotów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;200;
+1450000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;4 lub więcej łazienek;240;
+1199000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;2 łazienki;300;
+2900000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;5 pokoi;;415;
+4150000;22/04/2020;Mokotów, Warszawa;Agencja;Dom;5 pokoi;;303;
+51;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;4 pokoje;;555000;
+2970000;22/04/2020;Ochota, Warszawa;Agencja;Dom;6 lub więcej pokoi;;300;
+490000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;2 pokoje;;54;
+865000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;5 pokoi;;200;
+1950000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;5 pokoi;;280;
+3900000;22/04/2020;Włochy, Warszawa;Agencja;Dom;6 lub więcej pokoi;;632;
+2900000;22/04/2020;Praga Południe, Warszawa;Agencja;Dom;4 pokoje;;450;
+2222000;22/04/2020;Ochota, Warszawa;Agencja;Dom;6 lub więcej pokoi;3 łazienki;360;
+1330000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;260;
+2200000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;5 pokoi;;330;
+975000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;2 łazienki;155;Garaż
+1480000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;5 pokoi;;241;
+3000000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;400;
+925000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;437;
+1390000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;270;
+850000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;140;
+1200000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;220;
+1250000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;230;
+1199000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;430;
+1150000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;5 pokoi;;304;
+1100000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;219;
+3850000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;610;
+3599000;22/04/2020;Mokotów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;316;
+843000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;159;
+1590000;22/04/2020;Targówek, Warszawa;Agencja;Dom;6 lub więcej pokoi;;511;
+2230000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;330;
+2200000;22/04/2020;Bemowo, Warszawa;Agencja;Dom;6 lub więcej pokoi;;400;
+1980000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;6 lub więcej pokoi;3 łazienki;280;
+1550000;22/04/2020;Bemowo, Warszawa;Agencja;Dom;6 lub więcej pokoi;;340;
+13000000;22/04/2020;Mokotów, Warszawa;Agencja;Dom;6 lub więcej pokoi;4 lub więcej łazienek;2300;
+1290000;22/04/2020;Targówek, Warszawa;Agencja;Dom;6 lub więcej pokoi;;250;
+1400000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;171;
+1299000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;;300;
+1290000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;156;
+590000;22/04/2020;Wawer, Warszawa;Agencja;Dom;4 pokoje;;115;
+1100000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;290;
+789000;22/04/2020;Wawer, Warszawa;Agencja;Dom;4 pokoje;;125;
+1775000;22/04/2020;Wawer, Warszawa;Agencja;Dom;4 pokoje;;160;
+1199000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;5 pokoi;;257;
+3000000;22/04/2020;Mokotów, Warszawa;Agencja;Dom;6 lub więcej pokoi;4 lub więcej łazienek;478;
+989000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;5 pokoi;;220;
+820000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;;220;
+1290000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;5 pokoi;;170;
+1200000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;;243;
+1150000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;5 pokoi;;159;
+1590000;22/04/2020;Rembertów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;340;
+1790000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;361;
+2500000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;6 lub więcej pokoi;3 łazienki;286;
+972000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;3 pokoje;;96;
+559000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;3 pokoje;1 łazienka;60;Ulica
+1739000;22/04/2020;Mokotów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;235;
+860000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;132;
+2500000;22/04/2020;Włochy, Warszawa;Agencja;Dom;6 lub więcej pokoi;1 łazienka;189;
+899000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;150;
+780000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;;250;
+1940000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;;520;
+1400000;22/04/2020;Włochy, Warszawa;Agencja;Dom;5 pokoi;;195;
+1950000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;104;
+1415000;22/04/2020;Włochy, Warszawa;Agencja;Dom;5 pokoi;;192;
+1180000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;60;
+2100000;22/04/2020;Bielany, Warszawa;Agencja;Dom;5 pokoi;;120;
+1795000;22/04/2020;Bielany, Warszawa;Agencja;Dom;6 lub więcej pokoi;;400;
+495000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;53;
+600000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;52;
+3238215;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;110;
+2300000;22/04/2020;Bielany, Warszawa;Agencja;Dom;6 lub więcej pokoi;;388;
+1990000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;84;
+2500000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;450;
+1240000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;4 pokoje;;113;
+1650000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;285;
+680000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;59;
+1300000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;450;
+720000;22/04/2020;Praga Północ, Warszawa;Agencja;Mieszkanie;4 pokoje;;85;
+3190000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;390;
+620000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;2 pokoje;;56;
+995000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;170;
+765000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;62;
+3200000;22/04/2020;Żoliborz, Warszawa;Agencja;Dom;5 pokoi;;312;
+695000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;59;
+620000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;42;
+519000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;48;
+5567650;22/04/2020;Praga Południe, Warszawa;Agencja;Dom;6 lub więcej pokoi;;282;
+1140000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;4 pokoje;;84;
+1000000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;6 lub więcej pokoi;;166;
+3600000;22/04/2020;Praga Południe, Warszawa;Agencja;Dom;6 lub więcej pokoi;;200;
+1650000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;200;
+925000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;4 pokoje;;75;
+690000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;180;
+515000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;56;
+1175000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;162;
+539000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;63;
+1980000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;370;
+1999999;22/04/2020;Rembertów, Warszawa;Agencja;Dom;5 pokoi;;250;
+687000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;77;
+480000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;51;
+2500000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;240;
+690000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;55;
+937546;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;87;
+500000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;56;
+615000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;2 pokoje;;58;
+1440000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;4 pokoje;;72;
+525000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;60;
+550000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;2 pokoje;;51;
+799000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;2 pokoje;;81;
+780000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;66;
+731889;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;70;
+950000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;160;
+680000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;65;
+1690000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;300;
+385000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;37;
+1150000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;75;
+1550000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;218;
+430000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;3 pokoje;;55;
+1290000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;5 pokoi;;151;
+835000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;53;
+1400000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;256;
+630000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;60;
+2200000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;379;
+425000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;2 pokoje;;49;
+615000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;2 pokoje;;55;
+1250000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;3 łazienki;224;
+505000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;51;
+1200000;22/04/2020;Ursus, Warszawa;Agencja;Dom;6 lub więcej pokoi;;170;
+6075000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;6 lub więcej pokoi;4 lub więcej łazienek;720;
+630000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;2 pokoje;;62;
+1600000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;;310;
+595000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;47;
+1850000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;6 lub więcej pokoi;4 lub więcej łazienek;320;
+990000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;72;
+1290000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;267;
+720000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;38;
+1300000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;2 łazienki;310;
+1250000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;84;
+1999000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;2 łazienki;450;
+874800;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;73;
+1600000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;6 lub więcej pokoi;3 łazienki;310;
+645000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;4 pokoje;;83;
+4690000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;600;
+1100000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;4 pokoje;;115;
+2600000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;515;
+1380000;22/04/2020;Ochota, Warszawa;Agencja;Dom;6 lub więcej pokoi;;250;
+860000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;60;
+865000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;174;
+650000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;4 pokoje;;77;
+1389000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;5 pokoi;1 łazienka;185;Kryty
+865000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;48;
+720000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;71;
+1490000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;4 pokoje;1 łazienka;127;
+800000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;48;
+990000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;63;
+830000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;2 pokoje;;65;
+1350000;22/04/2020;Praga Południe, Warszawa;Agencja;Dom;4 pokoje;;141;
+1000000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;64;
+880000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;55;
+465000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;33;
+3400000;22/04/2020;Bielany, Warszawa;Agencja;Dom;6 lub więcej pokoi;;450;
+900000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;116;
+550000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;47;
+1650000;22/04/2020;Bemowo, Warszawa;Agencja;Dom;6 lub więcej pokoi;;339;
+910000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;69;
+920000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;4 pokoje;;132;
+512000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;64;
+410000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;2 pokoje;;46;
+1050000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;270;
+625000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;36;
+1100000;22/04/2020;Rembertów, Warszawa;Agencja;Dom;5 pokoi;;360;
+747225;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;57;
+1050000;28/11/2019;Wesoła, Warszawa;Właściciel;Dom;4 pokoje;1 łazienka;65;Garaż
+2600000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;4 pokoje;;130;
+999000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;295;
+640000;22/04/2020;Ursus, Warszawa;Agencja;Mieszkanie;3 pokoje;;70;
+1450000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;280;
+548000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;2 pokoje;;57;
+1150000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;;220;
+699000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;;240;
+455000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;2 pokoje;;45;
+980000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;5 pokoi;;180;
+730000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;56;
+930000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;5 pokoi;;120;
+651394;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;2 łazienki;57;Garaż
+975000;22/04/2020;Wawer, Warszawa;Agencja;Dom;4 pokoje;;174;
+474000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;60;
+1750000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;280;
+455000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;2 pokoje;;44;
+1500000;22/04/2020;Rembertów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;275;
+1230000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;77;
+2300000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;6 lub więcej pokoi;;280;
+547000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;4 pokoje;;53;
+1600000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;5 pokoi;;260;
+1400000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;84;
+785000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;71;
+2200000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;5 pokoi;2 łazienki;244;
+430000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;2 pokoje;;37;
+800000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;70;
+2350000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;4 pokoje;;121;
+1270000;22/04/2020;Żoliborz, Warszawa;Właściciel;Mieszkanie;3 pokoje;2 łazienki;85;Garaż
+2300000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;438;
+1940000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;;352;
+1490000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;77;
+644244;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;2 łazienki;57;Garaż
+822222;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;220;
+765000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;50;
+310000;22/04/2020;Targówek, Warszawa;Właściciel;Mieszkanie;Kawalerka lub garsoniera;1 łazienka;31;Ulica
+750000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;82;
+1150000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;5 pokoi;;250;
+440000;22/04/2020;Wawer, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;46;Ulica
+1290000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;4 pokoje;;112;
+599000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;45;
+2600000;22/04/2020;Mokotów, Warszawa;Agencja;Dom;5 pokoi;;210;
+999000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;72;
+1250000;22/04/2020;Rembertów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;230;
+550000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;49;
+1800000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;4 pokoje;;130;
+2370000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;279;
+695000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;4 pokoje;;74;
+1490000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;234;
+950000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;70;
+1950000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;4 pokoje;;103;
+697173;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;2 łazienki;61;Garaż
+560000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;54;
+700000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;37;
+1700000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;4 pokoje;;119;
+1200000;22/04/2020;Włochy, Warszawa;Agencja;Dom;4 pokoje;;135;
+730000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;64;
+499000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;32;
+1300000;22/04/2020;Targówek, Warszawa;Agencja;Dom;5 pokoi;;193;
+536000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;49;
+1590000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;5 pokoi;;230;
+907000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;65;
+1400000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;;280;
+950000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;3 pokoje;;75;
+1100000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;220;
+3949023;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;6 lub więcej pokoi;;234;
+720000;22/04/2020;Bielany, Warszawa;Agencja;Dom;4 pokoje;;96;
+515000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;57;
+2650000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;6 lub więcej pokoi;;568;
+410000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;2 pokoje;;35;
+1149000;22/04/2020;Wawer, Warszawa;Agencja;Dom;3 pokoje;;124;
+870000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;5 pokoi;;98;
+1690000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;412;
+1199000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;237;
+2350000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;480;
+1049000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;4 pokoje;;178;
+560000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;66;
+1690000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;500;
+867000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;73;
+1400000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;203;
+958000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;5 pokoi;;85;
+950000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;5 pokoi;;250;
+820000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;50;
+765000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;73;
+1690000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;386;
+1112000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;4 pokoje;;93;
+640000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;5 pokoi;;240;
+685000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;4 pokoje;;75;
+1450000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;300;
+615000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;60;
+2999000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;263;
+365000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;2 pokoje;;38;
+830000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;74;
+1255000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;258;
+950000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;73;
+420000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;36;Ulica
+549000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;2 pokoje;;47;
+989000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;51;
+540000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;60;
+1649000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;360;
+560000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;3 pokoje;;63;
+620000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;3 pokoje;;61;
+1200000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;5 pokoi;;189;
+430000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;2 pokoje;;39;
+439156;22/04/2020;Żoliborz, Warszawa;Właściciel;Mieszkanie;Kawalerka lub garsoniera;1 łazienka;22;
+2070000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;4 pokoje;;120;
+2870000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;330;
+677000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;3 pokoje;;60;
+1350000;22/04/2020;Bemowo, Warszawa;Agencja;Dom;3 pokoje;;88;
+1950000;22/04/2020;Wola, Warszawa;Agencja;Dom;5 pokoi;2 łazienki;240;
+550000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;2 pokoje;;57;
+1790000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;300;
+455000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;2 pokoje;;38;
+720000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;230;
+1400000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;84;
+799000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;3 pokoje;;70;
+615000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;56;
+605000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;58;
+325000;22/04/2020;Wawer, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;38;Ulica
+1350000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;210;
+860000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;3 pokoje;;63;
+645000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;2 pokoje;;38;
+2600000;22/04/2020;Bielany, Warszawa;Agencja;Dom;6 lub więcej pokoi;2 łazienki;300;
+439000;22/04/2020;Bemowo, Warszawa;Właściciel;Mieszkanie;2 pokoje;1 łazienka;40;
+868000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;3 pokoje;;62;
+915000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;78;
+480000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;35;
+580000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;49;
+479000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;50;
+425000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;37;
+497711;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;39;
+695000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;3 pokoje;;72;
+1700000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;3 pokoje;;98;
+799801;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;3 pokoje;;80;
+1125000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;4 pokoje;;129;
+520000;22/04/2020;Praga Północ, Warszawa;Agencja;Mieszkanie;3 pokoje;;56;
+995000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;3 pokoje;;94;
+755000;05/03/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;1 łazienka;50;Kryty
+5500000;22/04/2020;Żoliborz, Warszawa;Agencja;Dom;6 lub więcej pokoi;2 łazienki;300;
+1300000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;76;
+790000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;3 pokoje;;73;
+930000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;5 pokoi;;161;
+299000;22/04/2020;Białołęka, Warszawa;Właściciel;Mieszkanie;2 pokoje;;33;Garaż
+1079000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;4 pokoje;;122;
+920000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;4 pokoje;;320;
+530000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;2 pokoje;;47;
+542000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;3 pokoje;;45;
+1999000;22/04/2020;Włochy, Warszawa;Agencja;Dom;6 lub więcej pokoi;;300;
+680000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;2 pokoje;;62;
+3200000;22/04/2020;Włochy, Warszawa;Agencja;Dom;6 lub więcej pokoi;;360;
+1449000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;4 pokoje;;102;
+1349000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;103;
+629000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;62;
+685000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;5 pokoi;;156;
+720000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;4 lub więcej łazienek;184;
+1254900;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;4 pokoje;;83;
+1399000;22/04/2020;Targówek, Warszawa;Agencja;Dom;5 pokoi;;199;
+539000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;48;
+970000;22/04/2020;Bielany, Warszawa;Agencja;Dom;5 pokoi;;185;
+710000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;49;
+595000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;50;
+559000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;49;
+850000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;6 lub więcej pokoi;;198;
+324000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;;21;
+845000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;80;
+1350000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;72;
+1078000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;89;
+750000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;49;
+529000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;2 pokoje;;48;
+4700000;22/04/2020;Bielany, Warszawa;Agencja;Dom;6 lub więcej pokoi;;385;
+730000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;2 pokoje;;51;
+800000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;48;
+1750000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;5 pokoi;;231;
+590000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;4 pokoje;;65;
+1518330;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;4 pokoje;;142;
+1699000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;5 pokoi;;141;
+1750000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;5 pokoi;;340;
+969000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;84;
+490000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;5 pokoi;;118;
+758000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;61;
+3449999;22/04/2020;Wilanów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;477;
+540000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;56;
+2580000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;;300;
+390000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;2 pokoje;;38;
+1390000;22/04/2020;Rembertów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;360;
+544000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;4 pokoje;;64;
+860000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;82;
+899000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;5 pokoi;;320;
+920000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;93;
+2990000;22/04/2020;Bemowo, Warszawa;Agencja;Dom;5 pokoi;3 łazienki;339;
+1785000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;198;
+840000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;4 pokoje;;85;
+899000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;4 pokoje;;126;
+750000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;51;
+1128800;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;4 pokoje;;100;
+2950000;22/04/2020;Ochota, Warszawa;Agencja;Dom;6 lub więcej pokoi;4 lub więcej łazienek;290;
+555000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;36;
+1850000;22/04/2020;Włochy, Warszawa;Agencja;Dom;6 lub więcej pokoi;;399;
+550000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;57;
+699000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;44;
+1500000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;100;
+1750000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;6 lub więcej pokoi;;85;
+790000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;;340;
+1617000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;77;
+3500000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;5 pokoi;;150;
+3690000;22/04/2020;Bielany, Warszawa;Agencja;Dom;6 lub więcej pokoi;;445;
+1799000;22/04/2020;Bemowo, Warszawa;Agencja;Dom;6 lub więcej pokoi;;279;
+1080000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;70;
+1970000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;195;
+990000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;4 pokoje;;136;
+1750000;22/04/2020;Bemowo, Warszawa;Agencja;Dom;6 lub więcej pokoi;;386;
+720000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;52;
+1200000;10/08/2018;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;2 łazienki;89;Garaż
+499000;22/04/2020;Praga Północ, Warszawa;Agencja;Mieszkanie;5 pokoi;;51;
+678600;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;53;
+2500000;22/04/2020;Włochy, Warszawa;Agencja;Dom;5 pokoi;;320;
+1370000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;5 pokoi;;125;
+686750;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;3 pokoje;;48;
+1150000;22/04/2020;Bielany, Warszawa;Agencja;Dom;6 lub więcej pokoi;;269;
+610000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;64;
+2250000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;342;
+4300000;22/04/2020;Mokotów, Warszawa;Agencja;Dom;5 pokoi;;236;
+1250000;22/04/2020;Bemowo, Warszawa;Agencja;Dom;5 pokoi;;120;
+635000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;2 pokoje;;49;
+1400000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;;180;
+1900000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;4 pokoje;;140;
+1420000;22/04/2020;Ursynów, Warszawa;Agencja;Mieszkanie;4 pokoje;;122;
+482900;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;61;
+4600000;22/04/2020;Mokotów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;497;
+2800000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;6 lub więcej pokoi;;254;
+3490000;22/04/2020;Żoliborz, Warszawa;Agencja;Dom;6 lub więcej pokoi;2 łazienki;250;
+1111111;22/04/2020;Białołęka, Warszawa;Agencja;Dom;5 pokoi;;189;
+1550000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;210;
+2700000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;;741;
+1650000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;4 pokoje;;116;
+300000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;Kawalerka lub garsoniera;1 łazienka;21;
+1950000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;192;
+690000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;54;
+1250000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;160;
+990000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;78;
+2950000;22/04/2020;Ochota, Warszawa;Agencja;Dom;6 lub więcej pokoi;4 lub więcej łazienek;290;
+899000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;77;
+4136000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;5 pokoi;;176;
+665000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;50;
+925000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;73;
+2650000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;5 pokoi;;172;
+840000;22/04/2020;Praga Południe, Warszawa;Agencja;Mieszkanie;4 pokoje;;92;
+1470000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;3 pokoje;;70;
+1800000;22/04/2020;Praga Północ, Warszawa;Agencja;Mieszkanie;4 pokoje;;93;
+790000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;54;
+975000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;4 pokoje;;82;
+1960000;22/04/2020;Mokotów, Warszawa;Agencja;Dom;6 lub więcej pokoi;3 łazienki;220;
+895000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;51;
+1788500;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;73;
+1280000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;4 pokoje;;83;
+670000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;51;
+550000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;66;
+1100000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;;310;
+1290000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;4 pokoje;;127;
+750000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;2 pokoje;;50;
+500000;22/04/2020;Praga Północ, Warszawa;Agencja;Mieszkanie;3 pokoje;;61;
+2300000;22/04/2020;Bemowo, Warszawa;Agencja;Dom;3 pokoje;;120;
+490000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;48;
+699000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;65;
+690000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;63;
+533000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;2 pokoje;;58;
+2760000;22/04/2020;Wawer, Warszawa;Agencja;Dom;6 lub więcej pokoi;;267;
+409000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;37;
+1349000;22/04/2020;Praga Południe, Warszawa;Agencja;Dom;6 lub więcej pokoi;;290;
+995000;22/04/2020;Żoliborz, Warszawa;Agencja;Mieszkanie;3 pokoje;;82;
+1250000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;230;
+790000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;4 pokoje;;96;
+1200000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;56;
+580000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;5 pokoi;;128;
+420000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;53;
+1400000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;;180;
+890000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;58;
+1100000;22/04/2020;Wilanów, Warszawa;Agencja;Dom;4 pokoje;;245;
+749000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;185;
+1550000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;4 pokoje;;119;
+1055000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;6 lub więcej pokoi;;298;
+920000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;4 pokoje;;94;
+519000;22/04/2020;Bielany, Warszawa;Agencja;Mieszkanie;3 pokoje;;48;
+840000;22/04/2020;Wesoła, Warszawa;Agencja;Dom;5 pokoi;;169;
+1400000;22/04/2020;Śródmieście, Warszawa;Agencja;Mieszkanie;3 pokoje;;60;
+1270000;22/04/2020;Wawer, Warszawa;Agencja;Dom;5 pokoi;;220;
+420000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;53;
+2500000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;6 lub więcej pokoi;;280;
+844680;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;70;
+970000;22/04/2020;Bielany, Warszawa;Agencja;Dom;5 pokoi;;185;
+465000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;42;
+469000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;2 pokoje;;36;
+1510000;22/04/2020;Mokotów, Warszawa;Agencja;Dom;4 pokoje;;120;
+589000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;3 pokoje;;63;
+1150000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;5 pokoi;;151;
+440000;22/04/2020;Targówek, Warszawa;Agencja;Mieszkanie;3 pokoje;;60;
+588000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;54;
+2990000;22/04/2020;Ursynów, Warszawa;Agencja;Dom;6 lub więcej pokoi;3 łazienki;262;
+650000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;39;
+888000;22/04/2020;Białołęka, Warszawa;Agencja;Dom;5 pokoi;;180;
+928000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;3 pokoje;;62;
+620000;22/04/2020;Ochota, Warszawa;Agencja;Mieszkanie;2 pokoje;;47;
+540000;22/04/2020;Wola, Warszawa;Agencja;Mieszkanie;2 pokoje;;40;
+875000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;74;
+699000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;74;
+620000;22/04/2020;Mokotów, Warszawa;Agencja;Mieszkanie;3 pokoje;;66;
+949000;22/04/2020;Wawer, Warszawa;Agencja;Dom;4 pokoje;;160;
+780000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;3 pokoje;;73;
+550000;22/04/2020;Bemowo, Warszawa;Agencja;Mieszkanie;2 pokoje;;57;
